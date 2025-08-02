@@ -14,3 +14,4 @@ Once you run condump, run this python script and the script will attempt to grab
 TF2C does not have to be closed to run this script.
 @goddog on discord if you have any questions
 
+"Missing map"
