@@ -1,6 +1,6 @@
 ﻿# TF2C-Console-downloader
 
-This will download custom resource files (maps, models, sounds etc) that failed to download directly from a TF2C server.
+This will download custom resource files (maps, models, sounds etc) that failed to download directly from a TF2C server. This should work just fine for other Source and Sourcemod games as long as you change the base directory in the code from a TF2Classic folder to whatever folder you need.
 In TF2C you will need to enable "developer 1" and "download_debug 1". When you fail to download a resource, go to the TF2C console and type "condump". This will dump the output of the console into your \tf2classic\ folder. You must have the following folders already setup in \tf2classic\download:
 \maps
 \materials
@@ -15,3 +15,4 @@ TF2C does not have to be closed to run this script.
 @goddog on discord if you have any questions
 
 "Missing map"
+
